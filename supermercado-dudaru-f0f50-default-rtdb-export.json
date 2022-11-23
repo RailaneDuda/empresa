@@ -1,0 +1,156 @@
+{
+  "supermercado": {
+    "clientes": [
+      null,
+      {
+        "nome": "kaka",
+        "telefone": 92718078
+      },
+      {
+        "nome": "marcos",
+        "telefone": 998853920
+      },
+      {
+        "nome": "marilia",
+        "telefone": 992747470
+      },
+      {
+        "nome": "luanda",
+        "telefone": 859969922
+      },
+      {
+        "nome": "kaique",
+        "telefone": 995610839
+      },
+      {
+        "nome": "laisa",
+        "telefone": 988027719
+      },
+      {
+        "nome": "ycaro",
+        "telefone": 988553822
+      },
+      {
+        "nome": "kelvin",
+        "telefone": 89424758
+      },
+      {
+        "nome": "joselia",
+        "telefone": 92824016
+      },
+      {
+        "nome": "estefany",
+        "telefone": 81372730
+      }
+    ],
+    "dono": [
+      null,
+      {
+        "endereco": "boa_viagem",
+        "nome": "railane",
+        "telefone": 988775815
+      },
+      {
+        "endereco": "madalena",
+        "nome": "eduarda",
+        "telefone": 8881741524
+      }
+    ],
+    "funcionarios": [
+      null,
+      {
+        "funcao": "gerente",
+        "nome": "alana",
+        "telefone": 94024188
+      },
+      {
+        "funcao": "entregador",
+        "nome": "alexandre",
+        "telefone": 81046569
+      },
+      {
+        "funcao": "gerente",
+        "nome": "amanda",
+        "telefone": 98536139
+      },
+      {
+        "funcao": "caixa",
+        "nome": "ana_mel",
+        "telefone": 919578810
+      },
+      {
+        "funcao": "supervisora",
+        "nome": "ana_clara",
+        "telefone": 92676289
+      },
+      {
+        "funcao": "entregador",
+        "nome": "anastacio",
+        "telefone": 92889115
+      },
+      {
+        "funcao": "caixa",
+        "nome": "dalila",
+        "telefone": 97328715
+      },
+      {
+        "funcao": "caixa",
+        "nome": "beatriz",
+        "telefone": 92047759
+      },
+      {
+        "funcao": "supervisor",
+        "nome": "celiane",
+        "telefone": 96552769
+      },
+      {
+        "funcao": "caixa",
+        "nome": "david",
+        "telefone": 88600028
+      }
+    ],
+    "produtos": [
+      null,
+      {
+        "nome": "arroz",
+        "preco": "4,00"
+      },
+      {
+        "nome": "feijao_corda",
+        "preco": "3,50"
+      },
+      {
+        "nome": "feijao_preto",
+        "preco": "4,00"
+      },
+      {
+        "nome": "macarrao",
+        "preco": "3,50"
+      },
+      {
+        "nome": "sal",
+        "preco": "3,00"
+      },
+      {
+        "nome": "flocao",
+        "preco": "4,00"
+      },
+      {
+        "nome": "pimenta_do_reino",
+        "preco": "2,50kg"
+      },
+      {
+        "nome": "linguica",
+        "preco": "20,00kg"
+      },
+      {
+        "nome": "ovo",
+        "preco": "30,00"
+      },
+      {
+        "nome": "carne_bovina",
+        "preco": "40,00kg"
+      }
+    ]
+  }
+}

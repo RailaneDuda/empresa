@@ -1,0 +1,43 @@
+<html>
+    <head>
+
+        <script type='text/javascript' src='https://cdn.firebase.com/js/client/1.0.6/firebase.js'></script>		
+    
+        <!-- The core Firebase JS SDK is always required and must be listed first -->
+        <script src="https://www.gstatic.com/firebasejs/7.15.0/firebase-app.js"></script>
+    
+        <!-- TODO: Add SDKs for Firebase products that you want to use
+        https://firebase.google.com/docs/web/setup#available-libraries -->
+        <script src="https://www.gstatic.com/firebasejs/7.15.0/firebase-analytics.js"></script>  
+    
+        <script>
+          // Your web app's Firebase configuration
+          var firebaseConfig = {
+            	  apiKey: "AIzaSyATO9PVtiWC4GxzB3R6_0P1W01GQFydcYA",
+		  authDomain: "supermercado-dudaru-f0f50.firebaseapp.com",
+		  databaseURL: "https://supermercado-dudaru-f0f50-default-rtdb.firebaseio.com",
+		  projectId: "supermercado-dudaru-f0f50",
+		  storageBucket: "supermercado-dudaru-f0f50.appspot.com",
+		  messagingSenderId: "213146138422",
+		  appId: "1:213146138422:web:46767995cbbb8ccbcea597",
+		  measurementId: "G-5Y73B9SGP8"
+          };
+          // Initialize Firebase
+          firebase.initializeApp(firebaseConfig);
+          firebase.analytics();
+        </script>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="consulta.js"></script>
+
+    </head>
+
+    <body>
+        <table id="tbProdutos">
+            <tr>
+                <th>Nome</th>
+                <th>Preco</th>
+            </tr>
+        </table>
+    </body>
+</html>
